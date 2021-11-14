@@ -1,7 +1,7 @@
 # MyKeymap
 
 
-Custom keymap that remaps keyboard navigation to jkli. Influenced by vim, but still VSCode.
+Custom keymap that remaps keyboard navigation to jkli. Influenced by vim, but still VSCode. It helps to also have the `customcommands` and `Markdown All in One` extensions installed, but its not strictly necessary.
 
 <br>
 
